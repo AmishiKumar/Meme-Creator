@@ -72,7 +72,7 @@ const Index = () => {
   const backgroundMedia = uploadedMedia || selectedTemplate;
 
   return (
-    <div className="min-h-screen" style={{ backgroundColor: '#E6958C' }}>
+    <div className="min-h-screen" style={{ backgroundColor: '#F4C2B8' }}>
       <Header />
       
       <div className="container mx-auto px-4 py-8">
